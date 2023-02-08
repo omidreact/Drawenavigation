@@ -8,4 +8,3 @@ expo start -a
 
 
 
-[screencast-Genymotion-2023-02-08_20.20.52.848.webm](https://user-images.githubusercontent.com/116552870/217597394-a1afa2a6-54be-42ad-ab69-d0cd87f46d4b.webm)
